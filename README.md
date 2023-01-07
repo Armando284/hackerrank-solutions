@@ -9,3 +9,4 @@ This repository is meant to track all the problems I solve in the Hackerrank web
 
 * **Picking Numbers** problemSolving  *Easy*
 * **The Hurdle Race** problemSolving *Easy*
+* **Designer PDF Viewer** problemSolving *Easy* 
