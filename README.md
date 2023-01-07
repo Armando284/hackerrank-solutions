@@ -4,4 +4,8 @@ This repository is meant to track all the problems I solve in the Hackerrank web
 
 1. Problem description.
 2. Code solution.
-3. Tests passed screen capture image.
+
+## Problems Solved
+
+* **Picking Numbers** problemSolving  *Easy*
+* **The Hurdle Race** problemSolving *Easy*
